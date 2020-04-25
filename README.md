@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 19 11:48:37 2020
-
-@author: ware.cole
-"""
-
 SPATIAL ANALYSIS OF VA CLINICS IN NORTHEAST OHIO RELATIVE TO VETERANS BY AGE COHORT
 
 1: Purpose
